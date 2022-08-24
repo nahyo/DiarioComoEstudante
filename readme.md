@@ -1,0 +1,1 @@
+    Estou aprendendo programação junto a um amigo, estamos usando por enquanto HTML, mas futuramente usaremos CSS e PHP, irei dar uma breve resenha do meu dia, fazendo o como um diário, irei separar os ensinamentos por dia, começando hoje, dia 23/08/2022.
